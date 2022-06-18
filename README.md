@@ -12,7 +12,7 @@
     <li>
       <a>Getting Started</a>
       
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <a href="#prerequisites">Prerequisites</a>
     </li>
   </ol>
 </details>
