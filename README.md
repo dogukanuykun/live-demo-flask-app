@@ -11,8 +11,9 @@
     </li>
     <li>
       <a>Getting Started</a>
-      
+      <ul>
         <a href="#prerequisites">Prerequisites</a>
+      </ul>
     </li>
   </ol>
 </details>
