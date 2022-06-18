@@ -19,9 +19,8 @@
 </details>
 
 ### Built With
-
+* [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 * [Plotly](https://plotly.com/python/)
-* [Spark](https://spark.apache.org/docs/latest/api/python/#:~:text=PySpark%20is%20an%20interface%20for,data%20in%20a%20distributed%20environment.)
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Python](https://www.python.org/)
