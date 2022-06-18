@@ -11,10 +11,8 @@
     </li>
     <li>
       <a>Getting Started</a>
-      <ul>
+      
         <li><a href="#prerequisites">Prerequisites</a></li>
-        
-      </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
